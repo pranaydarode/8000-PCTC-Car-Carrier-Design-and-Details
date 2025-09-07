@@ -1,0 +1,33 @@
+Loadcase_3_Loaded_Departure_arrival - Intact
+	
+	
+Draft Amidships m	8.560
+Displacement t	47384
+Heel deg	0.0
+Draft at FP m	8.894
+Draft at AP m	8.226
+Draft at LCF m	8.552
+Trim (+ve by stern) m	-0.668
+WL Length m	206.708
+Beam max extents on WL m	40.000
+Wetted Area m^2	8642.800
+Waterpl. Area m^2	6338.258
+Prismatic coeff. (Cp)	0.652
+Block coeff. (Cb)	0.629
+Max Sect. area coeff. (Cm)	0.996
+Waterpl. area coeff. (Cwp)	0.767
+LCB from zero pt. (+ve fwd) m	110.507
+LCF from zero pt. (+ve fwd) m	104.986
+KB m	4.610
+KG fluid m	32.637
+BMt m	14.066
+BML m	342.833
+GMt corrected m	-13.961
+GML m	314.806
+KMt m	18.676
+KML m	347.442
+Immersion (TPc) tonne/cm	64.967
+MTc tonne.m	693.806
+RM at 1deg = GMt.Disp.sin(1) tonne.m	-11545.367
+Max deck inclination deg	0.1780
+Trim angle (+ve by stern) deg	-0.1780

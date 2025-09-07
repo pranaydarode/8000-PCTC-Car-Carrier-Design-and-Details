@@ -1,0 +1,3 @@
+Equilibrium - Loadcase_3_Loaded_Departure_arrival - Intact - Wave Phase 0.00
+Code	Criteria	Value	Units	Actual	Status	Margin
+						%
