@@ -76,12 +76,12 @@ This work is based on modifications to the **Drive Green Highway** model.
 ---
 
 ## 📂 Repository Structure
-📦 8000-PCTC-Car-Carrier-Design-and-Details
-┣ 📜 README.md
-┣ 📜 Design_Calculations.pdf
-┣ 📜 Stability_Estimation.xlsx
-┣ 📜 Power_Calculations.xlsx
-┗ 📜 References
+📦 8000-PCTC-Car-Carrier-Design-and-Details <br>
+┣ 📜 README.md <br>
+┣ 📜 Design_Calculations.pdf <br>
+┣ 📜 Stability_Estimation.xlsx <br>
+┣ 📜 Power_Calculations.xlsx <br>
+┗ 📜 References <br>
 
 ---
 
